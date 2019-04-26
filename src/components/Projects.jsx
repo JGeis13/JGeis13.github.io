@@ -6,6 +6,7 @@ import pom_img from '../assets/Pomodoro.png'
 import calc_img from '../assets/calculator.png'
 import gameOfLife_img from '../assets/gameOfLife.png'
 import wikiViewer_img from '../assets/wikiViewer.png'
+import peopleGenerator_img from '../assets/peopleGenerator.png'
 
 const projects = [
   { name: 'Pomodoro Clock', 
@@ -31,6 +32,12 @@ const projects = [
     urlText: '/wikiViewer',
     img: wikiViewer_img,
     summary: 'User interface for searching and viewing wikipedia entries. Utilizes wikipedia REST API.',
+  },
+  { name: 'People Generator', 
+    url: 'https://jarickg.com/peopleGenerator',
+    urlText: '/peopleGenerator',
+    img: peopleGenerator_img,
+    summary: 'Javascript/Jquery web app to generate names of people along with other generated details.',
   },
 ]
 

@@ -375,7 +375,8 @@ input::placeholder, textarea::placeholder {
     display: flex;
     flex-direction: column;
   }
-  .project-card .card-left {
+  .project-card .card-left,
+  .project-card .card-right {
     width: 100%;
   }
 

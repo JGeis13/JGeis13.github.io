@@ -8,7 +8,7 @@ export default function ProjectCard(props) {
       </div>
       <div className='card-right'>
         <h3>{props.name}</h3>
-        <p><a href={props.url}>{props.urlText}</a></p>
+        <p><a href={props.url} target="_blank" rel="noopener noreferrer">{props.urlText}</a></p>
         <p>{props.summary}</p>
       </div>
     </div>

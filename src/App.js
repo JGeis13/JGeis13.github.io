@@ -51,3 +51,6 @@ class App extends Component {
 }
 
 export default App;
+
+//TODOS
+// add target="_blank" to links
