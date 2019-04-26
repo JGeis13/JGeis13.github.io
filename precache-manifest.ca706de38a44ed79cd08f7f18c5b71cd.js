@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/wikiViewer.aad351b8.png"
   },
   {
-    "revision": "56cc7b0b3420769b5263",
+    "revision": "e77615941fcf27ba88e3",
     "url": "/static/css/main.04ce82a1.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/gameOfLife.f1f1ed0d.png"
   },
   {
-    "revision": "56cc7b0b3420769b5263",
-    "url": "/static/js/main.140cdc36.chunk.js"
+    "revision": "e77615941fcf27ba88e3",
+    "url": "/static/js/main.7525cd13.chunk.js"
   },
   {
     "revision": "d750635da14d66d06f5751e21f1f8cce",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/forest-tall.37c7b1e4.jpg"
   },
   {
-    "revision": "ef929f29323c4a674898802f0280a15c",
+    "revision": "d58484bb19aaee30e75dc4b186f24195",
     "url": "/index.html"
   }
 ];
