@@ -52,13 +52,15 @@ export class Contact extends Component {
   submitForm = () => {
     axios({
       method: 'POST',
-      url: 'https://formcarry.com/s/WgRmzLq9Ft', // C
+      url: 'https://fluffy-flea.prod.with-datafire.io/contact', // C
       data: {
         name: this.state.name,
         email: this.state.email,
         message: this.state.message,
-        honeypot: this.state.boxCheck,
         _gotcha: this.state.boxCheck
+      },
+      headers: {
+        'Content-Type': 'application/json'
       }
     }).then( res => {
         if( res.status === 200){
