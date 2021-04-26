@@ -5,7 +5,7 @@
 
 [google-search-page](https://JGeis13.github.io/google-search-page)
 
-[wiki-viewer](https://JGeis13.github.io/wiki-viewer)
+[wikiViewer](https://JGeis13.github.io/wikiViewer)
 
 [peopleGenerator](https://JGeis13.github.io/peopleGenerator)
 
