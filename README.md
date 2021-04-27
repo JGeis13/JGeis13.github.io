@@ -11,6 +11,8 @@
 
 [pomodoro-react](https://JGeis13.github.io/pomodoro-react)
 
+[etch-a-sketch](http://JGeis13.github.io/etch-a-sketch/)
+
 
 ### Jupyter Notebooks
 
